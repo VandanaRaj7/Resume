@@ -1,0 +1,53 @@
+{
+	"details":{
+"name":"vandana kaliseti",
+"image":"images.png",
+"phone":"7979799999",
+"email":"vandanakaliseti98@gmail.com"
+
+	},
+	"education":[
+		{
+			"course":"B.Tech(civil)",
+			"college":"MIC college of technology",
+			"aggregation":"95%"
+
+		},
+	{
+			"course":"Intermediate(M.P.C)",
+			"college":"Holy cross college",
+			"aggregation":"98%"
+
+		},
+	{
+			"course":"ssc-10th",
+			"college":"st ann's high school",
+			"aggregation":"9.0%"
+
+		}],
+	"skills":[
+		{
+          "title":"programming languages",
+          "output":[
+          	"c","c++","python","java","R programming"
+
+          ]
+
+		},
+		{
+			"title":"Operating Systems",
+			"output":[
+				"Window","Linux","MAC"
+
+			]
+
+		}
+	],
+	"carrier":
+	{
+		"co":"once upon a time there lived a swam, who was really very happy enjoying it life with it friends and it was also feeling sad and lonely"
+	
+	}
+
+
+}
